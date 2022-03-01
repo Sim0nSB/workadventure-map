@@ -100,6 +100,17 @@
          "id":52,
          "name":"customUrl1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"int",
+                 "value":50
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
