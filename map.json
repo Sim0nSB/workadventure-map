@@ -36,7 +36,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"MCS-PaaS Meeting"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -64,7 +64,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ChillZoneOrganisation"
+                 "value":"MCS-Paas ChillZone"
                 }, 
                 {
                  "name":"jitsiTrigger",
